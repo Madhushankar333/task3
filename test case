@@ -1,0 +1,10 @@
+
+| Query | Expected Output |
+
+| My bank account has been hacked, and money is being stolen. | High |
+| My internet has been down for the entire day, affecting my work. | High |
+| I haven't received my refund for the last seven days. | Medium |
+| Can you tell me how to update my profile picture? | Low |
+| I need to change my delivery address for an order arriving tomorrow. | Medium |
+| I would like to know about your available subscription plans. | Low |
+| I lost access to my account and cannot complete an urgent payment. | High |
